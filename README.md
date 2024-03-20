@@ -2,9 +2,13 @@
 
 ![Cover - JSON Dart](https://raw.githubusercontent.com/signmotion/json_dart/master/images/cover.webp)
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/signmotion/json_dart/master/LICENSE)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Pub Package](https://img.shields.io/badge/doc-json_dart-blue)](https://pub.dartlang.org/packages/json_dart)
+[![Build Status](https://github.com/signmotion/json_dart/actions/workflows/dart-ci.yml/badge.svg)](https://github.com/signmotion/json_dart/actions/workflows/dart-ci.yml)
+[![Publisher](https://img.shields.io/pub/publisher/json_dart)](https://pub.dev/publishers/syrokomskyi.com)
 
-The well-tested extensions for convenient handling of JSON in Dart.
+The well-tested helpers for convenient handling of JSON in Dart.
+Feel free to use it in your awesome project.
 
 ## Usage
 
@@ -13,8 +17,6 @@ The well-tested extensions for convenient handling of JSON in Dart.
 ```dart
 print({'api_key': '12345-my-key-value'}.blured());
 ```
-
-Output:
 
 ```text
 {api_key: ******************}
@@ -38,13 +40,13 @@ const json = <String, dynamic>{
 print(json.jsonWithSignificantFields);
 ```
 
-Output:
-
 ```text
 {ok: true}
 ```
 
 ## Welcome
+
+Requests and suggestions are warmly welcome.
 
 This package is open-source, stable and well-tested. Development happens on
 [GitHub](https://github.com/signmotion/json_dart). Feel free to report issues

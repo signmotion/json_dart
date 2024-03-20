@@ -1,5 +1,5 @@
 name: json_dart
-description: The well-tested extensions for convenient work with JSON types.
+description: The well-tested helpers for convenient work with JSON types.
 repository: https://github.com/signmotion/json_dart
 
 topics:

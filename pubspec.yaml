@@ -1,7 +1,8 @@
 name: json_dart
-description: The well-tested helpers for convenient work with JSON types.
+description: >-
+  The well-tested helpers for convenient work with JSON types.
+  It can blur key fields and keep only important fields.
 repository: https://github.com/signmotion/json_dart
-
 topics:
   - json
   - helper
@@ -14,7 +15,7 @@ topics:
 # You can calculate the number version code by this formula:
 #   code = m[A]jor * 100 * 100 + m[I]nor * 100 + [P]atch
 # Otherwise: +AAIIPP
-version: 0.1.1
+version: 0.1.2
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

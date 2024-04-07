@@ -12,7 +12,7 @@
 [![Issues](https://img.shields.io/github/issues/signmotion/json_dart?logo=github&logoColor=white)](https://github.com/signmotion/json_dart/issues)
 [![Pub Score](https://img.shields.io/pub/points/json_dart?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/json_dart/score)
 
-The [well-tested](https://github.com/signmotion/json_dart/tree/master/test) helpers for convenient handling of JSON in Dart.
+The [well-tested](https://github.com/signmotion/json_dart/tree/master/test) helpers for convenient handling of JSON in Dart. It can blur key/passwords and keep only important fields.
 Feel free to use it in your awesome project.
 
 | Android | iOS | Linux | MacOS | Web | Windows |              |

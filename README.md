@@ -1,27 +1,27 @@
 # JSON Dart
 
+![SDK version](https://badgen.net/pub/sdk-version/json_dart?style=for-the-badge)
+![Supported platforms](https://badgen.net/pub/flutter-platform/json_dart?style=for-the-badge)
+![Supported SDKs](https://badgen.net/pub/dart-platform/json_dart?style=for-the-badge)
+
 ![Cover - JSON Dart](https://raw.githubusercontent.com/signmotion/json_dart/master/images/cover.webp)
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Pub Package](https://img.shields.io/pub/v/json_dart.svg?logo=dart&logoColor=00b9fc&color=blue)](https://pub.dartlang.org/packages/json_dart)
-[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/json_dart?logo=github&logoColor=white)](https://github.com/signmotion/json_dart)
-[![Publisher](https://img.shields.io/pub/publisher/json_dart)](https://pub.dev/publishers/syrokomskyi.com)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Pub Package](https://img.shields.io/pub/v/json_dart.svg?logo=dart&logoColor=00b9fc&color=blue&style=for-the-badge)](https://pub.dartlang.org/packages/json_dart)
+[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/json_dart?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/json_dart)
+[![Publisher](https://img.shields.io/pub/publisher/json_dart?style=for-the-badge)](https://pub.dev/publishers/syrokomskyi.com)
 
-![SDK version](https://badgen.net/pub/sdk-version/json_dart)
-![Supported platforms](https://badgen.net/pub/flutter-platform/json_dart)
-![Supported SDKs](https://badgen.net/pub/dart-platform/json_dart)
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/json_dart/dart-ci.yml?logo=github-actions&logoColor=white)](https://github.com/signmotion/json_dart/actions)
-[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/json_dart?logo=github&logoColor=white)](https://github.com/signmotion/json_dart/pulls)
-[![Issues](https://img.shields.io/github/issues/signmotion/json_dart?logo=github&logoColor=white)](https://github.com/signmotion/json_dart/issues)
-[![Pub Score](https://img.shields.io/pub/points/json_dart?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/json_dart/score)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/json_dart/dart-ci.yml?logo=github-actions&logoColor=white&style=for-the-badge)](https://github.com/signmotion/json_dart/actions)
+[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/json_dart?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/json_dart/pulls)
+[![Issues](https://img.shields.io/github/issues/signmotion/json_dart?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/json_dart/issues)
+[![Pub Score](https://img.shields.io/pub/points/json_dart?logo=dart&logoColor=00b9fc&style=for-the-badge)](https://pub.dev/packages/json_dart/score)
 
 The [well-tested](https://github.com/signmotion/json_dart/tree/master/test) helpers for convenient handling of JSON in Dart. It can blur key/passwords and keep only important fields.
 Feel free to use it in your awesome project.
 
-[![CodeFactor](https://codefactor.io/repository/github/signmotion/json_dart/badge)](https://codefactor.io/repository/github/signmotion/json_dart)
+[![CodeFactor](https://codefactor.io/repository/github/signmotion/json_dart/badge?style=for-the-badge)](https://codefactor.io/repository/github/signmotion/json_dart)
 
-Share some ❤️ and star repo to support the project.
+Share some ❤️ and star repo to support the [JSON Dart](https://github.com/signmotion/json_dart).
 
 _If you write an article about **JsonDart** or any of [these](https://pub.dev/packages?q=publisher%3Asyrokomskyi.com&sort=updated) packages, let me know and I'll post the URL of the article in the **README**_ 🤝
 
